@@ -55,4 +55,5 @@ Place: Berlin, Germany
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
 
-
+Name: [Guilherme Almeida](https://github.com/GuiSAlmeida)
+Place: Florianópolis(SC), Brazil
