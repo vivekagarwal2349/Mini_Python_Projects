@@ -12,6 +12,6 @@ A Lissajous curve , also known as Lissajous figure or Bowditch curve , is the gr
 
 # Few images of how Lissajous Curves look like 
 
-[output-1](https://github.com/ParanjoyG/Mini_Python_Projects/blob/main/Projects_in_Python/Lissajous%20Curves/output-1.png)
-[output-2](https://github.com/ParanjoyG/Mini_Python_Projects/blob/main/Projects_in_Python/Lissajous%20Curves/output-2.png)
-[output-3](https://github.com/ParanjoyG/Mini_Python_Projects/blob/main/Projects_in_Python/Lissajous%20Curves/output-3.png)
+[output_1](https://github.com/ParanjoyG/Mini_Python_Projects/blob/main/Projects_in_Python/Lissajous%20Curves/output-1.png)
+[output_2](https://github.com/ParanjoyG/Mini_Python_Projects/blob/main/Projects_in_Python/Lissajous%20Curves/output-2.png)
+[output_3](https://github.com/ParanjoyG/Mini_Python_Projects/blob/main/Projects_in_Python/Lissajous%20Curves/output-3.png)
