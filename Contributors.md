@@ -28,3 +28,5 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Kartikeya Consul](https://github.com/Karssido)
+Place: Faridabad, India
