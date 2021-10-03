@@ -34,5 +34,3 @@ The backend logic is using simple `CRUD operations` to maintain the applications
 - [x] Import the created files to connect them with front end.
 - [x] Create file for GUI using Tkinter components.
 
-### The application will look like this :
-![app ui](https://github.com/ShubhamPy/Note-Taking-App/blob/master/app-ui.png?raw=true)
