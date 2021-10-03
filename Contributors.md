@@ -55,4 +55,5 @@ Place: Berlin, Germany
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
 
-
+Name: [Sanmay Paniker](https://github.com/soupierbucket)
+Place: Mumbai, India
