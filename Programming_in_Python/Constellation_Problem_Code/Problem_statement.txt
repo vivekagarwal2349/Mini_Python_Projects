@@ -1,0 +1,15 @@
+Three characters { #, *, . } represents a constellation of stars and galaxies in space. 
+Each galaxy is demarcated by # characters. There can be one or many stars in a given galaxy.
+Stars can only be in the shape of vowels { A, E, I, O, U }. A collection of * in the shape of the vowels is a star. 
+A star is contained in a 3x3 block. Stars cannot be overlapping. The dot(.) character denotes empty space.
+
+Given 3xN matrix comprising of { #, *, . } character, find the galaxy and stars within them.
+
+Constraints:
+3 <= N <= 10^5
+
+Input:
+Input consists of a single integer N denoting the number of columns.
+
+Output:
+The output contains vowels (stars) in order of their occurrence within the given galaxy. The galaxy itself is represented by the # character.
