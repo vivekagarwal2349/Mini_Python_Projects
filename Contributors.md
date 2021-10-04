@@ -1,3 +1,7 @@
+
+Name: [Kerin Pithawala](https://github.com/KerinPithawala)
+Place: Surat
+
 Name: [Adam Ross](https://github.com/R055A)
 Place: Christchurch, New Zealand
 
@@ -30,6 +34,9 @@ Place: Jamshedpur, India
 
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
+
+Name: [Joseph Dehoney](https://github.com/jodahoney)
+Place: Los Angeles, USA
 
 Name: [Tharindu Ds](https://github.com/mr-desilva)
 Place: Colombo, Sri Lanka
