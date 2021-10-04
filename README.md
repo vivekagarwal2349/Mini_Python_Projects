@@ -176,7 +176,8 @@ Navigate to your forked repository, and press the “New pull request” button 
 
   if (isAwesome) {
     // thanks in advance :p
-    starThisRepository();
+    starThisRepository⭐();
+    andCanFollowME🙈();
   }
 
 ```
