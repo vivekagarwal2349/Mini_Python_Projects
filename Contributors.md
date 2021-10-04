@@ -35,6 +35,9 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Chinmay Singhal](https://github.com/SinghalChinmay)
+Place: Uttar Pradesh, India
+
 Name: [Joseph Dehoney](https://github.com/jodahoney)
 Place: Los Angeles, USA
 
