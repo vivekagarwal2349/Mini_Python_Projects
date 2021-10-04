@@ -28,3 +28,5 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Paranjoy Gupta](https://github.com/ParanjoyG)
+Place: Kolkata, India
