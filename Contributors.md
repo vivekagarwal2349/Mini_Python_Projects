@@ -1,4 +1,7 @@
 
+Name: [Vaibhav Sharma](https://github.com/AlphaVS-76)
+Place: Dehradun, Uttarakhand, India
+
 Name: [Kerin Pithawala](https://github.com/KerinPithawala)
 Place: Surat
 
