@@ -35,6 +35,9 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Paranjoy Gupta](https://github.com/ParanjoyG)
+Place: Kolkata, India
+
 Name: [Kartikeya Consul](https://github.com/Karssido)
 Place: Faridabad, India
 
@@ -67,3 +70,4 @@ Place: Bhubaneswar, India
 
 Name: [Varun Shrivastava](https://github.com/Varun270)
 Place: India
+
