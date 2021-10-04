@@ -62,19 +62,7 @@ Place: Berlin, Germany
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
 
-Name: [Riya Menon](https://github.com/RiyaM16)
-Place: Mumbai, India
-
-Name: [Sanmay Paniker](https://github.com/soupierbucket)
-Place: Mumbai, India
-
-Name: [Guilherme Almeida](https://github.com/GuiSAlmeida)
-Place: Florianópolis(SC), Brazil
-
-Name: [Vikram](https://github.com/TheVikJ)
-Place: New Delhi, India
-
-Name: [Kinjalk Bajpai](https://github.com/kinb98)
-Place: Kanpur, India
+Name: [Varun Shrivastava](https://github.com/Varun270)
+Place: India
 
 
