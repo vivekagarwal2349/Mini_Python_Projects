@@ -38,6 +38,12 @@ Place: Varanasi, India
 Name: [Chinmay Singhal](https://github.com/SinghalChinmay)
 Place: Uttar Pradesh, India
 
+Name: [Paranjoy Gupta](https://github.com/ParanjoyG)
+Place: Kolkata, India
+
+Name: [Kartikeya Consul](https://github.com/Karssido)
+Place: Faridabad, India
+
 Name: [Joseph Dehoney](https://github.com/jodahoney)
 Place: Los Angeles, USA
 
@@ -67,5 +73,4 @@ Place: Bhubaneswar, India
 
 Name: [Varun Shrivastava](https://github.com/Varun270)
 Place: India
-
 
