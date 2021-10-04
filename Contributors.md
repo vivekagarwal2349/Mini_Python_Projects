@@ -62,6 +62,10 @@ Place: Berlin, Germany
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
 
+Name: [Vikram](https://github.com/TheVikJ)
+Place: New Delhi, India
+
 Name: [Kinjalk Bajpai](https://github.com/kinb98)
 Place: Kanpur, India
+
 
