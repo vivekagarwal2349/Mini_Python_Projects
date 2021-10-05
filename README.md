@@ -155,6 +155,11 @@ Navigate to your forked repository, and press the “New pull request” button 
 
 # Hurray!🎉👍 You Have Almost Done It!! Wait for it to get merged in the main repo.
 
+# Contributors👩‍💻👨‍💻
+<a href = "https://github.com/neha07kumari/Mini_Python_Projects/blob/main/Contributors">
+  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+</a>
+
 
 ```
 
@@ -176,7 +181,8 @@ Navigate to your forked repository, and press the “New pull request” button 
 
   if (isAwesome) {
     // thanks in advance :p
-    starThisRepository();
+    starThisRepository⭐();
+    andCanFollowME🙈();
   }
 
 ```
