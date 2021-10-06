@@ -71,6 +71,9 @@ Place: Berlin, Germany
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
 
+Name: [Kabir Dhruw](https://github.com/Kiinitix)
+Place: Kharagpur, India
+
 Name: [Varun Shrivastava](https://github.com/Varun270)
 Place: India
 
