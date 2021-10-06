@@ -89,8 +89,5 @@ Place: Kharagpur, India
 Name: [Varun Shrivastava](https://github.com/Varun270)
 Place: India
 
-
-Name: [Pratibha Singh](https://github.com/Crazy2code15)
-
 Name: [Dark Coder Cat | Vansh](http://github.com/dark-coder-cat)
 Place: India
