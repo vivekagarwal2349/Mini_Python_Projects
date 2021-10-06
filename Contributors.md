@@ -71,10 +71,11 @@ Place: Berlin, Germany
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
 
-
 Name: [avyay jain](https://github.com/avyayjain)
 Place: Delhi
-intro: aspiring entrepreneur,data scientist,ml-ai engineer
+
+Name: [Kabir Dhruw](https://github.com/Kiinitix)
+Place: Kharagpur, India
 
 Name: [Varun Shrivastava](https://github.com/Varun270)
 Place: India
