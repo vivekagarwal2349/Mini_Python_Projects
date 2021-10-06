@@ -17,6 +17,9 @@ Place: Delhi, India
 Name: [Prashant Singh](https://github.com/EitoZX/)
 Place: India.
 
+Name: [Sidharth Sethi](https://github.com/TechSpiritSS)
+Place: Punjab, India
+
 Name: [Chiranjeev Vishnoi](https://github.com/Chiranjeev-droid)
 Place: Rajasthan, India
 
