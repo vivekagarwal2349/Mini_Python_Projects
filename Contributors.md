@@ -17,6 +17,9 @@ Place: Delhi, India
 Name: [Prashant Singh](https://github.com/EitoZX/)
 Place: India.
 
+Name: [Sidharth Sethi](https://github.com/TechSpiritSS)
+Place: Punjab, India
+
 Name: [Chiranjeev Vishnoi](https://github.com/Chiranjeev-droid)
 Place: Rajasthan, India
 
@@ -71,9 +74,16 @@ Place: Berlin, Germany
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
 
+Name: [avyay jain](https://github.com/avyayjain)
+Place: Delhi
+
+Name: [Kabir Dhruw](https://github.com/Kiinitix)
+Place: Kharagpur, India
+
 Name: [Varun Shrivastava](https://github.com/Varun270)
 Place: India
 
 Name: [Dark Coder Cat | Vansh](http://github.com/dark-coder-cat)
 Place: India
+
 
