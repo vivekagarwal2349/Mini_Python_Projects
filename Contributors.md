@@ -41,6 +41,9 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Isha Sah](https://github.com/IshaSah)
+Place: Jamnagar, India
+
 Name: [Chinmay Singhal](https://github.com/SinghalChinmay)
 Place: Uttar Pradesh, India
 
@@ -88,5 +91,3 @@ Place: India
 
 Name: [Dark Coder Cat | Vansh](http://github.com/dark-coder-cat)
 Place: India
-
-
