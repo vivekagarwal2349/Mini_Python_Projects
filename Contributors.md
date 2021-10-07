@@ -98,3 +98,6 @@ Place: India
 Name: [Emad Rad](https://github.com/codewithemad)
 Place: Iran
 
+Name: [Sanmay Paniker](https://github.com/soupierbucket)
+Place: Mumbai, India
+
