@@ -94,3 +94,6 @@ Place: India
 
 Name: [Emad Rad](https://github.com/codewithemad)
 Place: Iran
+
+Name: [Ayushi Parikh](https://github.com/Korra15)
+Place: India
