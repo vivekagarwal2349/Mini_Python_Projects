@@ -101,3 +101,6 @@ Place: Iran
 Name: [Sanmay Paniker](https://github.com/soupierbucket)
 Place: Mumbai, India
 
+Name: [Mohamed Arish](https://github.com/DFAWX31)
+Place: Kerala, India
+
