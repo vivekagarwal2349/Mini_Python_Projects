@@ -1,4 +1,7 @@
 
+Name: [Vaibhav Sharma](https://github.com/AlphaVS-76)
+Place: Dehradun, Uttarakhand, India
+
 Name: [Kerin Pithawala](https://github.com/KerinPithawala)
 Place: Surat
 
@@ -17,6 +20,9 @@ Place: Delhi, India
 Name: [Prashant Singh](https://github.com/EitoZX/)
 Place: India.
 
+Name: [Sidharth Sethi](https://github.com/TechSpiritSS)
+Place: Punjab, India
+
 Name: [Chiranjeev Vishnoi](https://github.com/Chiranjeev-droid)
 Place: Rajasthan, India
 
@@ -34,6 +40,9 @@ Place: Jamshedpur, India
 
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
+
+Name: [Isha Sah](https://github.com/IshaSah)
+Place: Jamnagar, India
 
 Name: [Chinmay Singhal](https://github.com/SinghalChinmay)
 Place: Uttar Pradesh, India
@@ -71,7 +80,24 @@ Place: Berlin, Germany
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
 
+Name: [avyay jain](https://github.com/avyayjain)
+Place: Delhi
+
+Name: [Kabir Dhruw](https://github.com/Kiinitix)
+Place: Kharagpur, India
 
 Name: [Varun Shrivastava](https://github.com/Varun270)
 Place: India
+
+Name: [Utsav Jain](https://github.com/utsav7011)
+Place: Delhi,India
+
+Name: [Dark Coder Cat | Vansh](http://github.com/dark-coder-cat)
+Place: India
+
+Name: [Emad Rad](https://github.com/codewithemad)
+Place: Iran
+
+Name: [Sanmay Paniker](https://github.com/soupierbucket)
+Place: Mumbai, India
 
