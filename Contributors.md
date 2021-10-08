@@ -101,3 +101,6 @@ Place: Iran
 Name: [Sanmay Paniker](https://github.com/soupierbucket)
 Place: Mumbai, India
 
+Name: [Pranav Chaturvedi](https://github.com/pchat99)
+Place: Bhopal, India
+
