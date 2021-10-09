@@ -101,3 +101,5 @@ Place: Iran
 Name: [Sanmay Paniker](https://github.com/soupierbucket)
 Place: Mumbai, India
 
+Name: [Manognya Dasika](https://github.com/manognyaa)
+Place: Vijayawada, India
