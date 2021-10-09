@@ -101,8 +101,10 @@ Place: India
 Name: [Emad Rad](https://github.com/codewithemad)
 Place: Iran
 
-Name: [Sanmay Paniker](https://github.com/soupierbucket)
-Place: Mumbai, India
+Name: [Ayushi Parikh](https://github.com/Korra15)
+Place: India
+
+
 
 Name: [Holger Dörner](https://github.com/HolgerDoerner)
 Place: Germany
