@@ -104,6 +104,9 @@ Place: Iran
 Name: [Sanmay Paniker](https://github.com/soupierbucket)
 Place: Mumbai, India
 
+Name: [Holger Dörner](https://github.com/HolgerDoerner)
+Place: Germany
+
 Name: [Manognya Dasika](https://github.com/manognyaa)
 Place: Vijayawada, India
 
