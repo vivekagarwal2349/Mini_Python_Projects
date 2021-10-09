@@ -89,6 +89,9 @@ Place: Kharagpur, India
 Name: [Varun Shrivastava](https://github.com/Varun270)
 Place: India
 
+Name: [Marcel Scherer](https://github.com/Marcelscherer)
+Place: Aschaffenburg, Germany
+
 Name: [Utsav Jain](https://github.com/utsav7011)
 Place: Delhi,India
 
@@ -103,3 +106,4 @@ Place: Mumbai, India
 
 Name: [Manognya Dasika](https://github.com/manognyaa)
 Place: Vijayawada, India
+
