@@ -111,9 +111,11 @@ Place: Germany
 Name: [Manognya Dasika](https://github.com/manognyaa)
 Place: Vijayawada, India
 
-
 Name: [Maria Khan](https://github.com/MariaKhan7)
 Place: Mumbai, India
+
+Name: [Pranav Chaturvedi](https://github.com/pchat99)
+Place: Bhopal, India
 
 Name: [Mohamed Arish](https://github.com/DFAWX31)
 Place: Kerala, India
