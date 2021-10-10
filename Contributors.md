@@ -112,3 +112,7 @@ Place: Germany
 Name: [Manognya Dasika](https://github.com/manognyaa)
 Place: Vijayawada, India
 
+
+Name: [Maria Khan](https://github.com/MariaKhan7)
+Place: Mumbai, India
+
