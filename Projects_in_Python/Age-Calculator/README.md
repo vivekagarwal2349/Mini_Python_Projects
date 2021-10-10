@@ -10,5 +10,6 @@ Modules used in this program:-
 
 **Here's how the program looks like:-**
 
-[![Output Image Years](https://github.com/aravinds-arv/Mini_Python_Projects/blob/age-calculator/Projects_in_Python/Age-Calculator/ouput/outYears.png?raw=true)]
-[![Output Image Years](https://github.com/aravinds-arv/Mini_Python_Projects/blob/age-calculator/Projects_in_Python/Age-Calculator/ouput/outSeconds.png?raw=true)]
+![Output Image Years](https://github.com/aravinds-arv/Mini_Python_Projects/blob/age-calculator/Projects_in_Python/Age-Calculator/output/outYears.png?raw=true)
+
+![Output Image Years](https://github.com/aravinds-arv/Mini_Python_Projects/blob/age-calculator/Projects_in_Python/Age-Calculator/output/outSeconds.png?raw=true)
