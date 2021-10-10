@@ -114,6 +114,9 @@ Place: Vijayawada, India
 Name: [Maria Khan](https://github.com/MariaKhan7)
 Place: Mumbai, India
 
+Name: [Sankari K](https://github.com/Sankari-K)
+Place: India
+
 Name: [Pranav Chaturvedi](https://github.com/pchat99)
 Place: Bhopal, India
 
@@ -122,3 +125,4 @@ Place: Kerala, India
 
 Name: [Prathamesh Kurunkar](https://github.com/prathameshkurunkar7)
 Place: Pune, India
+
