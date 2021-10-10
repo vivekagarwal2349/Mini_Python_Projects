@@ -116,3 +116,5 @@ Place: Vijayawada, India
 Name: [Maria Khan](https://github.com/MariaKhan7)
 Place: Mumbai, India
 
+Name: [Prathamesh Kurunkar](https://github.com/prathameshkurunkar7)
+Place: Pune, India
