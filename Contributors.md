@@ -108,12 +108,14 @@ Place: Iran
 Name: [Ayushi Parikh](https://github.com/Korra15)
 Place: India
 
-
 Name: [Holger Dörner](https://github.com/HolgerDoerner)
 Place: Germany
 
 Name: [Manognya Dasika](https://github.com/manognyaa)
 Place: Vijayawada, India
+
+Name: [Shashwat](https://github.com/gitshashwat)
+Place: India
 
 Name: [Maria Khan](https://github.com/MariaKhan7)
 Place: Mumbai, India
@@ -129,4 +131,3 @@ Place: Kerala, India
 
 Name: [Prathamesh Kurunkar](https://github.com/prathameshkurunkar7)
 Place: Pune, India
-
