@@ -7,7 +7,8 @@ def heads_or_tails(betted_money, prediction=False, autoplay=False):
     global money
     
     # Checking if a correct bet has been made
-    if !(prediction.lower() == "heads" or prediction.lower() == "tails"):
+    if prediction != False:
+        if not (prediction.lower() == "heads" or prediction.lower() == "tails"):
         print("You've made an incorrect bet, no money will be taken, the problem is:")
         return
     
