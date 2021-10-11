@@ -1,4 +1,8 @@
 
+
+Name: [Anubhav Cp](https://github.com/anubhav-cp)
+Place: Delhi, India
+
 Name: [Vaibhav Sharma](https://github.com/AlphaVS-76)
 Place: Dehradun, Uttarakhand, India
 
@@ -89,6 +93,9 @@ Place: Kharagpur, India
 Name: [Varun Shrivastava](https://github.com/Varun270)
 Place: India
 
+Name: [Marcel Scherer](https://github.com/Marcelscherer)
+Place: Aschaffenburg, Germany
+
 Name: [Utsav Jain](https://github.com/utsav7011)
 Place: Delhi,India
 
@@ -98,8 +105,33 @@ Place: India
 Name: [Emad Rad](https://github.com/codewithemad)
 Place: Iran
 
-Name: [Sanmay Paniker](https://github.com/soupierbucket)
-Place: Mumbai, India
+Name: [Ayushi Parikh](https://github.com/Korra15)
+Place: India
+
+Name: [Holger Dörner](https://github.com/HolgerDoerner)
+Place: Germany
 
 Name: [Manognya Dasika](https://github.com/manognyaa)
 Place: India
+
+Name: [Shashwat](https://github.com/gitshashwat)
+Place: India
+
+Name: [Maria Khan](https://github.com/MariaKhan7)
+Place: Mumbai, India
+
+Name: [Sankari K](https://github.com/Sankari-K)
+Place: India
+
+Name: [Pranav Chaturvedi](https://github.com/pchat99)
+Place: Bhopal, India
+
+Name: [Mohamed Arish](https://github.com/DFAWX31)
+Place: Kerala, India
+
+Name: [Prathamesh Kurunkar](https://github.com/prathameshkurunkar7)
+Place: Pune, India
+
+Name: [Abhishek](https://github.com/abhishek213-alb)
+Place: Pune, India
+
