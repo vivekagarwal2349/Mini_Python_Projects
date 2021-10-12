@@ -135,3 +135,8 @@ Place: Pune, India
 Name: [Abhishek](https://github.com/abhishek213-alb)
 Place: Pune, India
 
+Name: [Aravind S](https://github.com/aravinds-arv)
+Place: Kerala, India
+
+Name: [Tommaso Crippa](https://github.com/Crippius)
+Place: Italy
