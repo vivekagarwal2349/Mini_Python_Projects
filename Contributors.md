@@ -136,3 +136,6 @@ Place: Pune, India
 
 Name: [Aravind S](https://github.com/aravinds-arv)
 Place: Kerala, India
+
+Name: [Tommaso Crippa](https://github.com/Crippius)
+Place: Italy
