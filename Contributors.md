@@ -30,6 +30,7 @@ Place: Punjab, India
 Name: [Chiranjeev Vishnoi](https://github.com/Chiranjeev-droid)
 Place: Rajasthan, India
 
+
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
 
@@ -38,9 +39,6 @@ Place: Mumbai, India
 
 Name: [Nikita Gupta](https://github.com/NikitaGupta16)
 Place: Delhi, India
-
-Name: [Nitin Kumar](https://github.com/nitinkumar30)
-Place: Jamshedpur, India
 
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
@@ -141,5 +139,4 @@ Place: Kerala, India
 Name: [Tommaso Crippa](https://github.com/Crippius)
 Place: Italy
 
-Name: [Vivek Agarwal](https://github.com/vivekagarwal2349)
-Place: Surat, India
+
